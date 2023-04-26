@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Capsule
+  - Database
+  - Farmer
+  - Wall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Sky
+  - GameObjects
+  - Player
+  - FirstMontain
+  - SecondMontain
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1024647399
+    locked: 0
+  - name: FirstMontain
+    uniqueID: 964508871
+    locked: 0
+  - name: SecondMontain
+    uniqueID: 2649703291
+    locked: 0
+  - name: Ground
+    uniqueID: 1380227669
+    locked: 0
+  - name: Base
+    uniqueID: 2789862955
+    locked: 0
+  - name: GameObjects
+    uniqueID: 807105485
+    locked: 0
+  - name: UI
+    uniqueID: 1450187413
+    locked: 0
+  - name: Player
+    uniqueID: 2117088763
+    locked: 0
